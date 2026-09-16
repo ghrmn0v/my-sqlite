@@ -1,0 +1,13 @@
+# Test artifacts
+test_players.csv
+test_join.csv
+
+# Ruby
+*.gem
+.bundle/
+vendor/bundle/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
